@@ -1,0 +1,5 @@
+playwright==1.44.0
+nest-asyncio==1.6.0
+indian-names==1.0
+asyncio
+python-dotenv==1.0.0  # optional for environment variables
